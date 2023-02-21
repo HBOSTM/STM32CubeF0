@@ -24,7 +24,8 @@
 
 #ifndef __CMSIS_ARMCC_H
 #define __CMSIS_ARMCC_H
-
+#define __CMSIS_ARMCC_H
+#define __CMSIS_ARMCC_H
 
 #if defined(__ARMCC_VERSION) && (__ARMCC_VERSION < 400677)
   #error "Please use Arm Compiler Toolchain V4.0.677 or later!"
